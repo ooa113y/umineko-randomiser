@@ -16,7 +16,7 @@ Using this is bound to get you spoiled on sprites, music and backgrounds you hav
 - The English script (optional)
 
 ## What versions of Umineko are supported?
-The Steam version of both the [Question](https://store.steampowered.com/app/406550/) and [Answer](https://store.steampowered.com/app/639490/) arcs should work. 07th-Mod will work as well. Other fan modifications, and the original physical release, are not supported.
+The Steam version of both the [Question](https://store.steampowered.com/app/406550/) and [Answer](https://store.steampowered.com/app/639490/) arcs should work. 07th-Mod versions of those will work as well. Other fan modifications, and the original physical release, are not supported.
 
 ## How to undo the randomisation?
 If you were using the base game, elete the `bmp`, `big`, `bgm` folders and the `0.utf` file and [ask Steam to redownload those for you](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335). If you were using the modded game, reinstall the mod. You don't have to do this if you just want to run the randomiser again, simply run it and you'll be fine.
