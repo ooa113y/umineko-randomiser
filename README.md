@@ -1,5 +1,8 @@
 This is a set of Python scripts to randomise the content of Umineko no Naku Koro ni.
 
+## SPOILER WARNING
+Using this is bound to get you spoiled on sprites, music and backgrounds you haven't seen, as well as lines of text you haven't read. Do not use this unless you have finished reading Umineko.
+
 ## How to use:
 1. Download and install the latest version of [Python](https://python.org) on your computer. You'll need this to run the scripts.
 2. Download the [randomiser itself](../../archive/master.zip) and extract it to your game directory.
