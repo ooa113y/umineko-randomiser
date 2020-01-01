@@ -19,7 +19,7 @@ Using this is bound to get you spoiled on sprites, music and backgrounds you hav
 The Steam version of both the [Question](https://store.steampowered.com/app/406550/) and [Answer](https://store.steampowered.com/app/639490/) arcs should work. 07th-Mod versions of those will work as well. Other fan modifications, and the original physical release, are not supported. Hane and Tsubasa are not supported. Saku is not supported.
 
 ## How to undo the randomisation?
-If you were using the base game, delete the `bmp`, `big`, `bgm`, `bgm2`, `bgm3`, `bgm4` folders and the `0.utf` file and [ask Steam to redownload those for you](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335). If you were using the modded game, force-reinstall the mod afterwards. You don't have to do this if you just want to run the randomiser again, simply run it and you'll be fine.
+Delete the `bmp`, `big`, `bgm`, `bgm2`, `bgm3`, `bgm4` folders and the `0.utf` file and [ask Steam to redownload those for you](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335). If you were using the modded game, force-reinstall the mod afterwards. You don't have to do this if you just want to run the randomiser again, simply run it and you'll be fine.
 
 ## Known issues
 - ADV-mode support is very limited, though it does work. NVL is recommended.
