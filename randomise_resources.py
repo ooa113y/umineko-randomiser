@@ -3,16 +3,16 @@ import shutil
 import random
 import glob
 
-if not os.path.exists('bmp'):
-    print('First run -- extracting resources...')
-    for i in glob.glob('*.nsa'):
+if not os.path.exists("bmp"):
+    print("First run -- extracting resources...")
+    for i in glob.glob("*.nsa"):
         os.system(f"nsadec {i}")
 random_dirs = [
-    'big/bmp/tati/**/*.png',
-    'bmp/tati/**/*.png',
-    'BGM/*.ogg',
-    'bmp/background/**/*.png',
-    'bmp/background/**/*.bmp'
+    "big/bmp/tati/**/*.png",
+    "bmp/tati/**/*.png",
+    "BGM/*.ogg",
+    "bmp/background/**/*.png",
+    "bmp/background/**/*.bmp",
 ]
 for random_dir in random_dirs:
     print(f"Randomising {random_dir}...")
