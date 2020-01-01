@@ -19,7 +19,7 @@ Using this is bound to get you spoiled on sprites, music and backgrounds you hav
 The Steam version of both the [Question](https://store.steampowered.com/app/406550/) and [Answer](https://store.steampowered.com/app/639490/) arcs should work. Fan modifications such as 07th-Mod, as well as the original physical release, are not supported.
 
 ## How to undo the randomisation?
-Delete the "bmp", "big", "bgm" folders and the "0.utf" file. [Ask Steam to redownload those for you.](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) You don't have to do this if you just want to run the randomiser again, simply run it and you'll be fine.
+Delete the `bmp`, `big`, `bgm` folders and the `0.utf` file. [Ask Steam to redownload those for you.](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) You don't have to do this if you just want to run the randomiser again, simply run it and you'll be fine.
 
 ## Known issues
 - The script randomisation takes a *long* time (10+ minutes).
