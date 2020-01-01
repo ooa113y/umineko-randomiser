@@ -5,7 +5,7 @@ Using this is bound to get you spoiled on sprites, music and backgrounds you hav
 
 ## How to use:
 1. Download and install the latest version of [Python](https://python.org) on your computer. You'll need this to run the scripts.
-2. Download the [randomiser itself](../../archive/master.zip) and extract it to your game directory.
+2. Download the [randomiser itself](../../archive/master.zip) and extract it to your game directory (put the actual files there, not the folder).
 3. On Linux or OS X, put a copy of `nsadec` somewhere in your `$PATH`, or extract the `arc*.nsa` archives yourself. On Windows, the program will handle this for you.
 4. Run the program. On Windows, this can be done by double-clicking the `randomise_resources.py` or `randomise_script.py` files (for resources and scripts, respectively). On Linux/OS X, pass those scripts to your Python interpreter via the command line.
 
