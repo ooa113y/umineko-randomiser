@@ -8,11 +8,16 @@ if not os.path.exists("bmp"):
     for i in glob.glob("*.nsa"):
         os.system(f"nsadec {i}")
 random_dirs = [
-    "big/bmp/tati/**/*.png",
-    "bmp/tati/**/*.png",
-    "BGM/*.ogg",
-    "bmp/background/**/*.png",
-    "bmp/background/**/*.bmp",
+    "big/bmp/tati/**/*.png",  # Base game Steam sprites/07th-Mod Rondo sprites
+    "bmp/tati/**/*.png",  # Base game potato sprites
+    "BGM/*.ogg",  # Music
+    "BGM2/*.ogg",  # Chiru music
+    "BGM3/*.ogg",  # Chiru music
+    "BGM4/*.ogg",  # Chiru music
+    "bmp/background/**/*.png",  # Base game backgrounds (PNG)
+    "bmp/background/**/*.bmp",  # Base game backgrounds (BMP)
+    "sprites/**/*.png",  # 07th-Mod Nocturne sprites
+    "bg/*.png",  # 07th-Mod Nocturne backgrounds
 ]
 for random_dir in random_dirs:
     print(f"Randomising {random_dir}...")

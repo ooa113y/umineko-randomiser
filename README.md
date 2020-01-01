@@ -16,12 +16,15 @@ Using this is bound to get you spoiled on sprites, music and backgrounds you hav
 - The English script (optional)
 
 ## What versions of Umineko are supported?
-The Steam version of both the [Question](https://store.steampowered.com/app/406550/) and [Answer](https://store.steampowered.com/app/639490/) arcs should work. Fan modifications such as 07th-Mod, as well as the original physical release, are not supported.
+The Steam version of both the [Question](https://store.steampowered.com/app/406550/) and [Answer](https://store.steampowered.com/app/639490/) arcs should work. 07th-Mod will work as well. Other fan modifications, and the original physical release, are not supported.
 
 ## How to undo the randomisation?
-Delete the `bmp`, `big`, `bgm` folders and the `0.utf` file. [Ask Steam to redownload those for you.](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335) You don't have to do this if you just want to run the randomiser again, simply run it and you'll be fine.
+If you were using the base game, elete the `bmp`, `big`, `bgm` folders and the `0.utf` file and [ask Steam to redownload those for you](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335). If you were using the modded game, reinstall the mod. You don't have to do this if you just want to run the randomiser again, simply run it and you'll be fine.
 
 ## Known issues
+- ADV-mode support is very limited, though it does work. NVL is recommended.
+  - In ADV-mode, nametags will not appear if the script is randomised, since they no longer match who's actually speaking.
+  - In Nocturne, ADV-mode will only show a single line at a time in the text window.
 - The script randomisation takes a *long* time (10+ minutes).
 - Lines may run off screen sometimes.
 - The chapter jump is slightly glitched (it works, but the text before it will be nonsensical).
